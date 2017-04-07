@@ -1,0 +1,26 @@
+{
+  "name": "corner-cpd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "vue": "^2.2.6",
+    "vue-loader": "^11.3.4",
+    "webpack": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --color  --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisa0208/corner-CPD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisa0208/corner-CPD/issues"
+  },
+  "homepage": "https://github.com/lisa0208/corner-CPD#readme"
+}
